@@ -1,3 +1,4 @@
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/1476c0a2-4244-4631-ad44-2633951d3404"/>
 <h2 align="left">About me</h2>
 
 ###
