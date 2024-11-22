@@ -45,11 +45,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/PalomaMacedoo/PalomaMacedoo/output/snake.svg" alt="Snake animation" />
-
-###
-
 ###
 
 <!--
